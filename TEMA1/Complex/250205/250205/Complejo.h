@@ -12,6 +12,10 @@ public:
 	Complejo(const Complejo& other);
 
 public:
+	float real() const;
+	float img() const;
+
+public:
 	Complejo operator+(const Complejo& c) const;
 	Complejo operator-(const Complejo& c) const;
 	Complejo operator*(const Complejo& c) const;

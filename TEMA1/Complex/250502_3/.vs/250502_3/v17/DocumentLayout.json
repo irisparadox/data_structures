@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\250502_3\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\Complex\\250502_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E1F7E4D-89B4-40DF-9E84-59CC6FB10E07}|250502_3\\250502_3.vcxproj|C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\250502_3\\250502_3\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2E1F7E4D-89B4-40DF-9E84-59CC6FB10E07}|250502_3\\250502_3.vcxproj|C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\Complex\\250502_3\\250502_3\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E1F7E4D-89B4-40DF-9E84-59CC6FB10E07}|250502_3\\250502_3.vcxproj|solutionrelative:250502_3\\complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E1F7E4D-89B4-40DF-9E84-59CC6FB10E07}|250502_3\\250502_3.vcxproj|C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\250502_3\\250502_3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2E1F7E4D-89B4-40DF-9E84-59CC6FB10E07}|250502_3\\250502_3.vcxproj|C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\Complex\\250502_3\\250502_3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2E1F7E4D-89B4-40DF-9E84-59CC6FB10E07}|250502_3\\250502_3.vcxproj|solutionrelative:250502_3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -40,27 +40,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "complex.h",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\250502_3\\250502_3\\complex.h",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\Complex\\250502_3\\250502_3\\complex.h",
               "RelativeDocumentMoniker": "250502_3\\complex.h",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\250502_3\\250502_3\\complex.h",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\Complex\\250502_3\\250502_3\\complex.h",
               "RelativeToolTip": "250502_3\\complex.h",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAABQAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-06T08:07:19.464Z",
+              "WhenOpened": "2025-02-07T08:36:11.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\250502_3\\250502_3\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\Complex\\250502_3\\250502_3\\main.cpp",
               "RelativeDocumentMoniker": "250502_3\\main.cpp",
-              "ToolTip": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\250502_3\\250502_3\\main.cpp",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA1\\Complex\\250502_3\\250502_3\\main.cpp",
               "RelativeToolTip": "250502_3\\main.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T08:07:10.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T08:07:10.479Z"
             }
           ]
         },

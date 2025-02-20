@@ -4,6 +4,14 @@ Complejo::Complejo() : _real(), _img() {};
 Complejo::Complejo(float _Real, float _Img) : _real(_Real), _img(_Img) {};
 Complejo::Complejo(const Complejo& other) : _real(other._real), _img(other._img) {};
 
+float Complejo::real() const {
+	return _real;
+}
+
+float Complejo::img() const {
+	return _img;
+}
+
 Complejo Complejo::operator+(const Complejo& c) const {
 	return Complejo(_real + c._real, _img + c._img);
 }
