@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA2\\LAB2\\EJ12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93FC5914-D391-430B-BFD0-A46A859F3508}|EJ12\\EJ12.vcxproj|C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA2\\LAB2\\EJ12\\EJ12\\main12_plantilla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93FC5914-D391-430B-BFD0-A46A859F3508}|EJ12\\EJ12.vcxproj|solutionrelative:EJ12\\main12_plantilla.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FC5914-D391-430B-BFD0-A46A859F3508}|EJ12\\EJ12.vcxproj|C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA2\\LAB2\\EJ12\\EJ12\\cola.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93FC5914-D391-430B-BFD0-A46A859F3508}|EJ12\\EJ12.vcxproj|solutionrelative:EJ12\\cola.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 242,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cola.h",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA2\\LAB2\\EJ12\\EJ12\\cola.h",
+              "RelativeDocumentMoniker": "EJ12\\cola.h",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA2\\LAB2\\EJ12\\EJ12\\cola.h",
+              "RelativeToolTip": "EJ12\\cola.h",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAIwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-21T09:23:39.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main12_plantilla.cpp",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA2\\LAB2\\EJ12\\EJ12\\main12_plantilla.cpp",
+              "RelativeDocumentMoniker": "EJ12\\main12_plantilla.cpp",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\UCM\\3\\Segundo Cuatrimestre\\ED\\Ejercicios\\TEMA2\\LAB2\\EJ12\\EJ12\\main12_plantilla.cpp",
+              "RelativeToolTip": "EJ12\\main12_plantilla.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T09:22:46.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
